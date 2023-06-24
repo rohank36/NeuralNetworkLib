@@ -1,7 +1,7 @@
 # NeuralNetworkLib
 About: Rudimentary neural network built from scratch in Java that can learn boolean functions via supervised learning. 
 
-Motivation: Wanted to understand what was going on inside the "black box" when using huge NN libraries like tensorflow, pytorch, neuroph etc. Building this for my learning.
+Motivation: Wanted to understand what was going on inside the "black box" when using huge NN libraries like tensorflow, pytorch, neuroph etc. Building this for my learning and for others to use.
 
 Improvements: Doesn't work on XOR yet. Not optimized for large training sets. Plot error vs epochs graph to show how the error decreases after each epoch.
 
