@@ -1,5 +1,5 @@
 # NeuralNetworkLib
-About: Rudimentary neural network built from scratch in Java that can learn boolean functions via supervised learning. 
+About: Implemented a rudimentary neural network library from scratch in Java by delving into the math of forward and backward propagation then translating the algorithm to code, leading to a greater understanding of how neural networks work.
 
 Motivation: Wanted to understand what was going on inside the "black box" when using huge NN libraries like tensorflow, pytorch, neuroph etc. Building this for my learning and for others to use.
 
